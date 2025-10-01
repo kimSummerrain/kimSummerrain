@@ -1,6 +1,6 @@
 <!-- Welcome Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome%20to%20nmhyrhn's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome%20to%20kimSummerrain's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 
 <!-- About Me -->
@@ -9,6 +9,7 @@
   <ul>
     <li>🎯 Goal: Backend Developer</li>
     <li>📖 Preparing: 정보처리기사, SQLD</li>
+    <li>🏅 Certification: 웹디자인개발기능사</li>
     <li>🌱 Currently Studying: Java, Spring Boot</li>
   </ul>
 </div>
@@ -56,7 +57,23 @@
 <!-- Contact -->
 <div style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; text-align:center; color:white;">
   <h2>🧑‍💻 Contact Me</h2>
-  <a href="mailto:doeun457@gmail.com">
+  <a href="mailto:gbs06193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
+</div>
+
+<!-- Stats -->
+<div style="background:#1f1f1f; border-radius:20px; padding:20px; margin:20px 0; text-align:center;">
+  <h2 style="color:white;">🏅 Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&bg_color=1f1f1f&title_color=ffffff&text_color=ffffff" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kimSummerrain&theme=dark&hide_border=true" />
+  <br><br>
+  <!-- Baekjoon Profile -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kde8485" />
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kimSummerrain/kimSummerrain/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
