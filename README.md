@@ -8,8 +8,7 @@
   <h2>👩‍💻 About Me</h2>
   <ul>
     <li>🎯 Goal: Backend Developer</li>
-    <li>📖 Preparing: 정보처리기사, SQLD</li>
-    <li>🏅 Certification: 웹디자인개발기능사</li>
+    <li>📖 Preparing: SQLD</li>
     <li>🌱 Currently Studying: Java, Spring Boot</li>
   </ul>
 </div>
@@ -40,6 +39,9 @@
   <div style="display:inline-block; background:#282828; border-radius:15px; padding:20px; margin:10px; width:260px; vertical-align:top; color:white;">
     <h3 style="color:#1E90FF;">📊 Databases</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   </div>
 
   <!-- Tools -->
@@ -68,12 +70,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&bg_color=1f1f1f&title_color=ffffff&text_color=ffffff" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kimSummerrain&theme=dark&hide_border=true" />
-  <br><br>
-  <!-- Baekjoon Profile -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kde8485" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kimSummerrain/kimSummerrain/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
