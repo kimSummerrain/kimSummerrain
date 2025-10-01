@@ -8,7 +8,7 @@
   <h2>👩‍💻 About Me</h2>
   <ul>
     <li>🎯 Goal: Backend Developer</li>
-    <li>📖 Preparing: SQLD</li>
+    <li>📖 Certificate: SQLD</li>
     <li>🌱 Currently Studying: Java, Spring Boot</li>
   </ul>
 </div>
@@ -17,9 +17,9 @@
 <div style="margin:20px 0;">
   <h2 style="color:#ff4b81;">🛠️ Tech Stack</h2>
   
-  <!-- Languages -->
+  <!-- Core Languages -->
   <div style="display:inline-block; background:#282828; border-radius:15px; padding:20px; margin:10px; width:260px; vertical-align:top; color:white;">
-    <h3 style="color:#FFD700;">👩🏻‍💻 Languages</h3>
+    <h3 style="color:#FFD700;">👩🏻‍💻 Core Languages</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   </div>
 </div>
