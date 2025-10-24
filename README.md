@@ -50,7 +50,9 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   </p>
 </td>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 <!-- Tools -->
 <td width="25%" bgcolor="#3a1f2d">
   <h3 align="center"><font color="white">🧭 Tools & Platforms</font></h3>
