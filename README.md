@@ -75,10 +75,4 @@
   </a>
 </div>
 
-<!-- Stats -->
-<div align="center" style="background:#1f1f1f; border-radius:20px; padding:20px; margin:20px 0;">
-  <h2 style="color:white;">🏅 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&bg_color=1f1f1f&title_color=ffffff&text_color=ffffff" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kimSummerrain&theme=dark&hide_border=true" />
-</div>
+
