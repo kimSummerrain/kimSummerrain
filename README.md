@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome%20to%20kimSummerrain's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=240&text=Welcome%20to%20kimSummerrain's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; color:white;">
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e3a8a, #2563eb); border-radius:20px; padding:20px; margin:20px 0; color:white;
+box-shadow: 0px 10px 25px rgba(0,0,0,0.35);
+border: 1px solid rgba(255,255,255,0.15);">
   <h2>👩‍💻 About Me</h2>
   <ul style="list-style:none; padding:0;">
     <li>Goal: Backend Developer</li>
@@ -57,8 +59,10 @@
   </a>
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; color:white;">
-  <h2>Contact Me</h2>
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e3a8a, #2563eb); border-radius:20px; padding:20px; margin:20px 0; color:white;
+box-shadow: 0px 10px 25px rgba(0,0,0,0.35);
+border: 1px solid rgba(255,255,255,0.15);">
+  <h2>📩 Contact Me</h2>
   <a href="mailto:gbs06193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
