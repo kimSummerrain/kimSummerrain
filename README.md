@@ -1,14 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome%20to%20kimSummerrain's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
-</div>
+<div align="center" style="
+  background: linear-gradient(135deg, #0f172a, #1e3a8a, #2563eb);
+  border-radius: 22px;
+  padding: 28px;
+  margin: 20px 0;
+  color: white;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+">
+  
+  <h2 style="
+    font-size: 26px;
+    margin-bottom: 18px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-shadow: 0px 3px 8px rgba(0, 0, 0, 0.5);
+  ">
+    👩‍💻 About Me
+  </h2>
 
-<div align="center" style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; color:white;">
-  <h2>👩‍💻 About Me</h2>
-  <ul style="list-style:none; padding:0;">
-    <li>Goal: Backend Developer</li>
-    <li>Certificate: SQLD</li>
-    <li>Spring Boot, JPA</li>
+  <ul style="
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    line-height: 2.0;
+    font-weight: 500;
+  ">
+    <li>🚀 <b>Goal</b>: Backend Developer</li>
+    <li>📜 <b>Certificate</b>: SQLD</li>
+    <li>⚙️ <b>Tech</b>: Spring Boot, JPA</li>
   </ul>
+
 </div>
 
 <h2 align="center">Tech Stack</h2>
