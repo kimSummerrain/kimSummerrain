@@ -31,7 +31,7 @@
       </p>
     </td>
     <td width="25%" bgcolor="#1a2a40" valign="top">
-      <h3 align="center" style="color:white;">📊 Databases</h3>
+      <h3 align="center" style="color:white;"> Databases</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /><br>
