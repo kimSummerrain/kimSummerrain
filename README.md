@@ -75,7 +75,8 @@
   border: 1px solid rgba(255,255,255,0.18);
 ">
   <h2>📩 Contact Me</h2>
-  <a href="mailto:doeun457@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+
+  <a href="mailto:doeun457@gmail.com?subject=Hello%20kimSummerrain&body=Hi%20kimSummerrain,%0D%0A%0D%0A">
+    <img src="https://img.shields.io/badge/Email-doeun457%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </div>
