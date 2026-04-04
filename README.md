@@ -77,6 +77,6 @@
   <h2>📩 Contact Me</h2>
 
   <a href="mailto:doeun457@gmail.com?subject=Hello%20kimSummerrain&body=Hi%20kimSummerrain,%0D%0A%0D%0A">
-    <img src="https://img.shields.io/badge/Email-doeun456%40gmail.rcom-2563eb?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-doeun457@40gmail.rcom-2563eb?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </div>
