@@ -15,7 +15,6 @@
   <ul style="list-style:none; padding:0;">
     <li>Goal: Backend Developer</li>
     <li>Certificate: SQLD</li>
-    <li>Spring Boot, JPA</li>
   </ul>
 </div>
 
