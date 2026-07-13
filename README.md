@@ -14,7 +14,7 @@
   <h2>👩‍💻 About Me</h2>
   <ul style="list-style:none; padding:0;">
     <li>Goal: Backend Developer</li>
-    <li>Certificate: SQLD</li>
+    <li>Certification: SQLD</li>
   </ul>
 </div>
 
