@@ -141,23 +141,7 @@ alt="Git, GitHub, IntelliJ IDEA, Visual Studio Code, Postman and Figma"
 
 <br/>
 
-## GitHub Statistics
 
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=3B82F6&amp;icon_color=06B6D4&amp;text_color=64748B"
-alt="Kim Doeun GitHub statistics"
-/>
-
-<br/><br/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSummerrain&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=3B82F6&amp;text_color=64748B&amp;langs_count=8"
-alt="Most used languages"
-/>
 
 </div>
 
