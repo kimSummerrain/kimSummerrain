@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=Kim%20Doeun&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Backend%20Developer&amp;descSize=20&amp;descAlignY=58"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=kimSummerrain&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Backend%20Developer&amp;descSize=20&amp;descAlignY=58"
 alt="Kim Doeun GitHub Header"
 />
 
