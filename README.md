@@ -1,81 +1,185 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f8cff&height=240&text=Welcome%20to%20kimSummerrain's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=230&section=header&text=Kim%20Doeun&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=58" />
+
+<a href="https://github.com/kimSummerrain">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Building+Reliable+Backend+Systems;Cloud+%26+DevOps+Enthusiast;Always+Learning+and+Improving" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kimSummerrain&label=Profile%20Views&color=2563eb&style=flat-square" />
+
 </div>
 
-<div align="center" style="
-  background: linear-gradient(135deg, #1e293b, #2563eb, #60a5fa);
-  border-radius:20px;
-  padding:20px;
-  margin:20px 0;
-  color:white;
-  box-shadow: 0px 8px 20px rgba(0,0,0,0.25);
-  border: 1px solid rgba(255,255,255,0.18);
-">
-  <h2>👩‍💻 About Me</h2>
-  <ul style="list-style:none; padding:0;">
-    <li>Goal: Backend Developer</li>
-    <li>Certification: SQLD</li>
-  </ul>
+<br/>
+
+## About Me
+
+```yaml
+name: Kim Doeun
+role: Backend Developer
+location: South Korea
+
+main_stack:
+  - Java
+  - Spring Boot
+  - MySQL
+  - Docker
+  - AWS
+
+interests:
+  - Backend Architecture
+  - RESTful API Design
+  - Database Design
+  - CI/CD
+  - Cloud Infrastructure
+
+certification:
+  - SQLD
+```
+
+* Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
+* 안정적이고 유지보수하기 좋은 서버 구조에 관심이 있습니다.
+* Docker, GitHub Actions, AWS를 활용한 CI/CD 및 배포 환경을 구축하고 있습니다.
+* 팀 프로젝트에서 API 설계, 데이터베이스 설계, 백엔드 개발을 담당했습니다.
+
+<br/>
+
+## Current Focus
+
+<div align="center">
+
+|     Area     | Focus                                 |
+| :----------: | :------------------------------------ |
+|    Backend   | Spring Boot, Spring Security, JPA     |
+|   Database   | MySQL, MariaDB, Redis                 |
+|    DevOps    | Docker, GitHub Actions, AWS           |
+| Architecture | Domain Modeling, ERD, REST API        |
+|     Goal     | Reliable and Scalable Backend Systems |
+
 </div>
 
-<h2 align="center">Tech Stack</h2>
+<br/>
 
-<table align="center">
-  <tr>
-    <td width="25%" bgcolor="#2c2c2c" valign="top">
-      <h3 align="center" style="color:white;">Core Languages</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /><br>
-      </p>
-    </td>
-    <td width="25%" bgcolor="#163020" valign="top">
-      <h3 align="center" style="color:white;">Frameworks</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-    </td>
-    <td width="25%" bgcolor="#1a2a40" valign="top">
-      <h3 align="center" style="color:white;">Databases</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-    <td width="25%" bgcolor="#3a1f2d" valign="top">
-      <h3 align="center" style="color:white;">Tools & Platforms</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /><br>
-      </p>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/kimSummerrain?pet-id=1" width="1000" height="120"/>
-  </a>
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+
 </div>
 
-<div align="center" style="
-  background: linear-gradient(135deg, #1e293b, #2563eb, #60a5fa);
-  border-radius:20px;
-  padding:20px;
-  margin:20px 0;
-  color:white;
-  box-shadow: 0px 8px 20px rgba(0,0,0,0.25);
-  border: 1px solid rgba(255,255,255,0.18);
-">
-  <h2>📩 Contact Me</h2>
+### Backend
 
-  <a href="mailto:doeun457@gmail.com?subject=Hello%20kimSummerrain&body=Hi%20kimSummerrain,%0D%0A%0D%0A">
-    <img src="https://img.shields.io/badge/Email-doeun457@gmail.rcom-2563eb?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,django,flask&theme=dark" />
+
 </div>
+
+### Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" />
+
+</div>
+
+### DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux&theme=dark" />
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma&theme=dark" />
+
+</div>
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=64748B" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSummerrain&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=64748B&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kimSummerrain&hide_border=true&background=00000000&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=64748B&dates=64748B&currStreakNum=64748B&sideNums=64748B" />
+
+</div>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimSummerrain&bg_color=00000000&color=64748B&line=3B82F6&point=06B6D4&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kimSummerrain&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## Gitanimals
+
+<div align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+  <img width="100%" height="150" src="https://render.gitanimals.org/lines/kimSummerrain?pet-id=1" />
+</a>
+
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:doeun457@gmail.com">
+  <img src="https://img.shields.io/badge/Email-doeun457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/kimSummerrain">
+  <img src="https://img.shields.io/badge/GitHub-kimSummerrain-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<strong>Thank you for visiting my GitHub profile.</strong>
+
+<br/><br/>
+
+<i>Building reliable backend systems, one commit at a time.</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=120&section=footer" />
