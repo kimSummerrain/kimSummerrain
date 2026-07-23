@@ -1,14 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=230&section=header&text=Kim%20Doeun&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=58" />
-
-<a href="https://github.com/kimSummerrain">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Building+Reliable+Backend+Systems;Cloud+%26+DevOps+Enthusiast;Always+Learning+and+Improving" />
-</a>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:2563EB,100:06B6D4&amp;height=230&amp;section=header&amp;text=Kim%20Doeun&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Backend%20Developer&amp;descSize=20&amp;descAlignY=58"
+alt="Kim Doeun GitHub Header"
+/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kimSummerrain&label=Profile%20Views&color=2563eb&style=flat-square" />
+<a href="https://github.com/kimSummerrain">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=900&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Java+%26+Spring+Boot+Backend+Developer;Building+Reliable+Backend+Systems;Cloud+%26+DevOps+Enthusiast"
+    alt="Typing introduction"
+  />
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=kimSummerrain&amp;label=Profile%20Views&amp;color=2563eb&amp;style=flat-square"
+alt="Profile views"
+/>
 
 </div>
 
@@ -42,7 +54,7 @@ certification:
 * Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니다.
 * 안정적이고 유지보수하기 좋은 서버 구조에 관심이 있습니다.
 * Docker, GitHub Actions, AWS를 활용한 CI/CD 및 배포 환경을 구축하고 있습니다.
-* 팀 프로젝트에서 API 설계, 데이터베이스 설계, 백엔드 개발을 담당했습니다.
+* 팀 프로젝트에서 API 설계, 데이터베이스 설계와 백엔드 개발을 담당했습니다.
 
 <br/>
 
@@ -68,77 +80,97 @@ certification:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=java,python,javascript&amp;theme=dark"
+alt="Java, Python and JavaScript"
+/>
 
 </div>
+
+<br/>
 
 ### Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,django,flask&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=spring,django,flask&amp;theme=dark"
+alt="Spring Boot, Django and Flask"
+/>
 
 </div>
+
+<br/>
 
 ### Database
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&amp;theme=dark"
+alt="MySQL, MongoDB, Redis and SQLite"
+/>
 
 </div>
+
+<br/>
 
 ### DevOps & Cloud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux&amp;theme=dark"
+alt="Docker, AWS, GitHub Actions, Nginx and Linux"
+/>
 
 </div>
+
+<br/>
 
 ### Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma&amp;theme=dark"
+alt="Git, GitHub, IntelliJ IDEA, Visual Studio Code, Postman and Figma"
+/>
 
 </div>
+
+<br/>
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=06B6D4&text_color=64748B" />
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=3B82F6&amp;icon_color=06B6D4&amp;text_color=64748B"
+alt="Kim Doeun GitHub statistics"
+/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSummerrain&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=64748B&langs_count=8" />
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kimSummerrain&hide_border=true&background=00000000&ring=3B82F6&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=64748B&dates=64748B&currStreakNum=64748B&sideNums=64748B" />
-
-</div>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimSummerrain&bg_color=00000000&color=64748B&line=3B82F6&point=06B6D4&area=true&hide_border=true" />
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSummerrain&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=3B82F6&amp;text_color=64748B&amp;langs_count=8"
+alt="Most used languages"
+/>
 
 </div>
 
 <br/>
 
-## GitHub Trophies
+## GitHub Streak
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kimSummerrain&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+<img
+src="https://streak-stats.demolab.com?user=kimSummerrain&amp;hide_border=true&amp;background=00000000&amp;ring=3B82F6&amp;fire=06B6D4&amp;currStreakLabel=3B82F6&amp;sideLabels=64748B&amp;dates=64748B&amp;currStreakNum=64748B&amp;sideNums=64748B"
+alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -149,7 +181,11 @@ certification:
 <div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
-  <img width="100%" height="150" src="https://render.gitanimals.org/lines/kimSummerrain?pet-id=1" />
+  <img
+    width="100%"
+    src="https://render.gitanimals.org/lines/kimSummerrain"
+    alt="Gitanimals"
+  />
 </a>
 
 </div>
@@ -161,16 +197,22 @@ certification:
 <div align="center">
 
 <a href="mailto:doeun457@gmail.com">
-  <img src="https://img.shields.io/badge/Email-doeun457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-doeun457%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/kimSummerrain">
-  <img src="https://img.shields.io/badge/GitHub-kimSummerrain-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-kimSummerrain-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -182,4 +224,10 @@ certification:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:06B6D4&height=120&section=footer" />
+<br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:2563EB,100:06B6D4&amp;height=120&amp;section=footer"
+alt="Footer"
+/>
