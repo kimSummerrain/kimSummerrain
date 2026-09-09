@@ -202,9 +202,6 @@ alt="GitHub contribution streak"
 
 <strong>Thank you for visiting my GitHub profile.</strong>
 
-<br/><br/>
-
-<i>Building reliable backend systems, one commit at a time.</i>
 
 </div>
 
