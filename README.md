@@ -227,7 +227,45 @@ Education: B.S. in Convergence Software
 </table>
 
 </div>
+### Data & AI
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" /><br/>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" /><br/>
+<sub><b>Pandas</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br/>
+<sub><b>TensorFlow</b></sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-06B6D4?style=for-the-badge" />
+
+</div>
+
+<br/>
 <br/>
 
 ### Hardware & Systems
