@@ -189,44 +189,6 @@ Education: B.S. in Convergence Software
 </tr>
 </table>
 
-</div>
-
-<br/>
-
-### Cloud & DevOps
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
-<sub><b>Git</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
-<sub><b>GitHub</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" /><br/>
-<sub><b>IntelliJ</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/>
-<sub><b>VS Code</b></sub>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" /><br/>
-<sub><b>Postman</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 <br/>
 ### Data & AI
 
