@@ -116,7 +116,7 @@ Education: B.S. in Convergence Software
 
 ## 🚀 Experience
 
-### 💼 Backend Developer Intern
+### Backend Developer Intern
 
 **AI Content Generation Platform**
 
@@ -129,14 +129,14 @@ Education: B.S. in Convergence Software
 
 <br/>
 
-### 🚁 Smart Agriculture & Autonomous Drone System
+### Smart Agriculture & Autonomous Drone System
 
 `Django` · `Redis` · `WebSocket` · `Raspberry Pi` · `Pixhawk` · `MAVLink`
 
 - Built real-time communication between autonomous drones and backend servers
 - Integrated drone telemetry, image transmission, and server-side processing
 - Co-authored research presented at **KIIT Conference 2025**
-- 🏆 **Gold Award — Engineering Festival**
+- **Gold Award — Engineering Festival**
 
 <br/>
 
@@ -170,19 +170,19 @@ Education: B.S. in Convergence Software
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Achievement | Result |
 | :--- | :---: |
 | Engineering Festival | 🥇 Gold Award |
-| AI Kiosk Hackathon | 🏆 Grand Prize |
+| Kairos Hackathon | 🏆 Grand Prize |
 | KIIT Conference 2025 | 📄 Research Paper |
 | Baekjoon | 🟡 Gold IV |
 | SQLD | ✅ Certified |
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
