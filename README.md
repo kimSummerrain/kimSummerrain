@@ -51,6 +51,26 @@ Education: B.S. in Convergence Software
 
 <br/>
 
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+
+</div>
+
+<br/>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vue&theme=dark" />
+
+</div>
+
+<br/>
+
 ### Backend
 
 <div align="center">
