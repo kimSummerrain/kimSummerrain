@@ -34,6 +34,7 @@ Education: B.S. in Convergence Software
 - Backend developer focused on **Java & Spring Boot**
 - Experience with **AWS, Docker, CI/CD, and Linux server environments**
 - Built systems involving **AI APIs, asynchronous processing, and real-time communication**
+- Experience with **data analysis and machine learning using Python**
 - Experience integrating **backend software with drones and embedded hardware**
 - Interested in building **reliable and scalable backend systems**
 
@@ -47,6 +48,7 @@ Education: B.S. in Convergence Software
 
 <table>
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /><br/>
 <sub><b>Java</b></sub>
@@ -61,6 +63,7 @@ Education: B.S. in Convergence Software
 <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" /><br/>
 <sub><b>JavaScript</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -74,6 +77,7 @@ Education: B.S. in Convergence Software
 
 <table>
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/>
 <sub><b>React</b></sub>
@@ -83,6 +87,7 @@ Education: B.S. in Convergence Software
 <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" /><br/>
 <sub><b>Vue.js</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -96,20 +101,22 @@ Education: B.S. in Convergence Software
 
 <table>
 <tr>
-<td align="center" width="100">
+
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" /><br/>
 <sub><b>Spring Boot</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" /><br/>
 <sub><b>Django</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /><br/>
 <sub><b>Flask</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -124,31 +131,73 @@ Education: B.S. in Convergence Software
 
 <br/>
 
+### Data & AI
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" /><br/>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" /><br/>
+<sub><b>Pandas</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" /><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" /><br/>
+<sub><b>TensorFlow</b></sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Analysis-06B6D4?style=flat-square" />
+
+</div>
+
+<br/>
+
 ### Database & Cache
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100">
+
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /><br/>
 <sub><b>MySQL</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /><br/>
 <sub><b>PostgreSQL</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /><br/>
 <sub><b>Redis</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /><br/>
 <sub><b>SQLite</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -162,73 +211,37 @@ Education: B.S. in Convergence Software
 
 <table>
 <tr>
-<td align="center" width="100">
+
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
 <sub><b>AWS</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /><br/>
 <sub><b>Docker</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /><br/>
 <sub><b>GitHub Actions</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /><br/>
 <sub><b>Nginx</b></sub>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br/>
 <sub><b>Linux</b></sub>
 </td>
-</tr>
-</table>
-</div>
-<br/>
-### Data & AI
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" /><br/>
-<sub><b>NumPy</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" /><br/>
-<sub><b>Pandas</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br/>
-<sub><b>PyTorch</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br/>
-<sub><b>TensorFlow</b></sub>
-</td>
 
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-06B6D4?style=for-the-badge" />
-
 </div>
 
-<br/>
 <br/>
 
 ### Hardware & Systems
@@ -237,15 +250,17 @@ Education: B.S. in Convergence Software
 
 <table>
 <tr>
-<td align="center" width="110">
+
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" /><br/>
 <sub><b>Raspberry Pi</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br/>
-<sub><b>Ubuntu Linux</b></sub>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48" /><br/>
+<sub><b>Ubuntu</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -256,6 +271,7 @@ Education: B.S. in Convergence Software
 <img src="https://img.shields.io/badge/UAV-Autonomous_Drone-475569?style=flat-square" />
 
 </div>
+
 ---
 
 ## 🚀 Experience
@@ -284,7 +300,7 @@ Education: B.S. in Convergence Software
 
 <br/>
 
-### 🌐 Backend & Web Services
+### Backend & Web Services
 
 `Spring Boot` · `Flask` · `AWS` · `Docker` · `SSE`
 
@@ -314,7 +330,7 @@ Education: B.S. in Convergence Software
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 | Achievement | Result |
 | :--- | :---: |
@@ -326,7 +342,7 @@ Education: B.S. in Convergence Software
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -359,6 +375,7 @@ Education: B.S. in Convergence Software
 </div>
 
 ---
+
 
 ## 📫 Contact
 
