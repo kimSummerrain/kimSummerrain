@@ -193,14 +193,14 @@ Education: B.S. in Convergence Software
 
 <br/>
 
-### Tools
+### Cloud & DevOps
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
 <sub><b>Git</b></sub>
 </td>
 
@@ -227,6 +227,7 @@ Education: B.S. in Convergence Software
 </table>
 
 </div>
+<br/>
 ### Data & AI
 
 <div align="center">
