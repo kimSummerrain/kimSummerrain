@@ -41,14 +41,6 @@ Education: B.S. in Convergence Software
 
 ## 💻 Tech Stack
 
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
-
-</div>
-
 <br/>
 
 ### Languages
