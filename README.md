@@ -188,7 +188,7 @@ Education: B.S. in Convergence Software
 </td>
 </tr>
 </table>
-
+</div>
 <br/>
 ### Data & AI
 
