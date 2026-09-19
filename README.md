@@ -41,13 +41,28 @@ Education: B.S. in Convergence Software
 
 ## 💻 Tech Stack
 
-<br/>
-
 ### Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /><br/>
+<sub><b>Java</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /><br/>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" /><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -57,7 +72,19 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vue&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" /><br/>
+<sub><b>Vue.js</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -67,9 +94,26 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,django,flask&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" /><br/>
+<sub><b>Spring Boot</b></sub>
+</td>
 
-<br/><br/>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" /><br/>
+<sub><b>Django</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" /><br/>
+<sub><b>Flask</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -84,7 +128,29 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /><br/>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" /><br/>
+<sub><b>Redis</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" /><br/>
+<sub><b>SQLite</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,7 +160,34 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
+<sub><b>AWS</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /><br/>
+<sub><b>Docker</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" /><br/>
+<sub><b>GitHub Actions</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" /><br/>
+<sub><b>Nginx</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br/>
+<sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -104,7 +197,34 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" />
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" /><br/>
+<sub><b>IntelliJ</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" /><br/>
+<sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -114,16 +234,27 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" /><br/>
+<sub><b>Raspberry Pi</b></sub>
+</td>
 
-<br/><br/>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br/>
+<sub><b>Ubuntu Linux</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Pixhawk-Flight_Controller-2563EB?style=flat-square" />
 <img src="https://img.shields.io/badge/MAVLink-UAV_Communication-06B6D4?style=flat-square" />
 <img src="https://img.shields.io/badge/UAV-Autonomous_Drone-475569?style=flat-square" />
 
 </div>
-
 ---
 
 ## 🚀 Experience
