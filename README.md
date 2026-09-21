@@ -346,9 +346,7 @@ Education: B.S. in Convergence Software
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kimSummerrain&show_icons=true&hide_border=true&theme=transparent"
-/>
+
 
 <br/><br/>
 
