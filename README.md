@@ -26,7 +26,6 @@
 
 ```yaml
 Name: Doeun Kim
-Role: Backend Developer
 Location: South Korea
 Education: B.S. in Convergence Software
 ```
