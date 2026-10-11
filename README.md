@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img
@@ -15,10 +16,12 @@
 
 <br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=kimSummerrain&amp;label=Profile%20Views&amp;color=2563eb&amp;style=flat-square"
-  alt="Profile views"
-/>
+<a href="https://hits.sh/github.com/kimSummerrain/">
+  <img
+    src="https://hits.sh/github.com/kimSummerrain.svg?style=flat-square&amp;label=Profile%20Views&amp;color=2563eb"
+    alt="Profile Views"
+  />
+</a>
 
 </div>
 
