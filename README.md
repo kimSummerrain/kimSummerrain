@@ -228,20 +228,12 @@ Education: B.S. in Convergence Software
 
 ---
 
-## 🐾 Contribution
-
-<div align="center">
-<a href="https://github.com/git-goods/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
   <img
-    width="100%"
-    height="120"
-    src="https://render.gitanimals.org/lines/kimSummerrain"
-    alt="Gitanimals GitHub contributions"
+    src="https://render.gitanimals.org/farms/kimSummerrain"
+    width="1000"
   />
 </a>
-</div>
-
----
 
 ## 📫 Contact
 
